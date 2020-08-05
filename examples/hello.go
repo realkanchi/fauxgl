@@ -1,6 +1,6 @@
 package main
 
-import . "github.com/fogleman/fauxgl"
+import . "github.com/realkanchi/fauxgl"
 
 const (
 	width  = 2000
