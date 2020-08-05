@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	. "github.com/fogleman/fauxgl"
+	. "github.com/realkanchi/fauxgl"
 	"github.com/nfnt/resize"
 )
 
