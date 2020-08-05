@@ -3,7 +3,7 @@ package fauxgl
 import (
 	"math"
 
-	"github.com/fogleman/simplify"
+	"github.com/realkanchi/simplify"
 )
 
 type Mesh struct {
