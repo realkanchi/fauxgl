@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	. "github.com/fogleman/fauxgl"
+	. "github.com/realkanchi/fauxgl"
 )
 
 func timed(name string) func() {
