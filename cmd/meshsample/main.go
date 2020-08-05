@@ -6,7 +6,7 @@ import (
 	"math"
 	"math/rand"
 
-	. "github.com/fogleman/fauxgl"
+	. "github.com/realkanchi/fauxgl"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
 
